@@ -5,8 +5,7 @@
 ## 🍊 BITAmin 16, 17th Winter Project 🍊  
 KOSPI 기반 공포·탐욕 지표 및 오실레이터 분석  
 
-NAVER 뉴스 댓글 데이터를 활용한 감성 분석을 통해 **K-Fear & Greed Index (K-FGI)** 를 구축하고  
-시계열 예측 및 투자 전략 실험을 수행한 프로젝트입니다.
+NAVER 뉴스 댓글 데이터를 활용한 감성 분석을 통해 **K-Fear & Greed Index (K-FGI)** 를 구축하고 시계열 예측 및 투자 전략 실험을 수행한 프로젝트입니다.
 
 ---
 
